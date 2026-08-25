@@ -25,11 +25,11 @@ The project demonstrates frontend development skills including responsive layout
 - 🧭 User-friendly navigation
 - 💻 Optimized for desktop, tablet, and mobile devices
 - 🔗 Multiple pages with working navigation
-- 🌐 Deployed and accessible online
+- Deployed and accessible online
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
