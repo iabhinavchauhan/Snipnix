@@ -1,4 +1,4 @@
-# 🚀 Snipnix
+# Snipnix
 
 > A modern and responsive blogging platform designed to provide a clean, engaging, and user-friendly experience for discovering and reading content.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 About The Project
+## About The Project
 
 **Snipnix** is a modern web-based blogging platform built with a focus on clean UI, responsive design, smooth user experience, and easy content discovery.
 
