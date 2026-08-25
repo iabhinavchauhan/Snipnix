@@ -2,7 +2,7 @@
 
 > A modern and responsive blogging platform designed to provide a clean, engaging, and user-friendly experience for discovering and reading content.
 
-🌐 **Live Demo:** https://snipnix.netlify.app/
+**Live Demo:** https://snipnix.netlify.app/
 
 ---
 
