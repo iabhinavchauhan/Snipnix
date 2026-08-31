@@ -14,7 +14,7 @@ The project demonstrates frontend development skills including responsive layout
 
 ---
 
-## ✨ Features
+## Features
 
 - 📝 Modern blogging interface
 - 📰 Browse and read blog content
