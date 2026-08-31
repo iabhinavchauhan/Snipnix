@@ -47,7 +47,7 @@ The project demonstrates frontend development skills including responsive layout
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Snipnix/
