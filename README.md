@@ -56,14 +56,6 @@ Snipnix/
 ├── Blog.html
 ├── Contact.html
 ├── ...
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-├── images/
-│   └── ...
-│
+│─ style.css
+│─ script.js
 └── README.md
