@@ -17,11 +17,6 @@ The project demonstrates frontend development skills including responsive layout
 ## Features
 
 - 📝 Modern blogging interface
-- 📰 Browse and read blog content
-- 🔍 Easy content discovery
-- 📱 Fully responsive design
-- 🎨 Clean and modern UI
-- ⚡ Fast and lightweight experience
 - 🧭 User-friendly navigation
 - 💻 Optimized for desktop, tablet, and mobile devices
 - 🔗 Multiple pages with working navigation
